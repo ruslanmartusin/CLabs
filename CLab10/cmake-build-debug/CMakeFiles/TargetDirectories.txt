@@ -1,0 +1,3 @@
+C:/Users/JOSTICK/CLionProjects/CLab10/cmake-build-debug/CMakeFiles/CLab10.dir
+C:/Users/JOSTICK/CLionProjects/CLab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JOSTICK/CLionProjects/CLab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
